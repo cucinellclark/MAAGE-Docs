@@ -1,6 +1,6 @@
-:github_url: https://github.com/BV-BRC/bvbrc_docs/edit/develop/docroot/index.rst
+:github_url: https://github.com/cucinellclark/MAAGE-Docs/docroot/html/index.rst
 
-BV-BRC Documentation
+MAAGE Documentation
 =====================
 
 .. toctree::
